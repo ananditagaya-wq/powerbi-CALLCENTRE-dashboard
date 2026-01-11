@@ -1,7 +1,7 @@
 📊 Call Centre Performance Dashboard – Power BI
 
 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard.png.png)
 
 Objectives
 - Monitor call volume and peak hours  
